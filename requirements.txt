@@ -1,0 +1,8 @@
+pandas
+numpy
+random
+matplotlib
+copy
+sys
+matplotlib
+heapq
