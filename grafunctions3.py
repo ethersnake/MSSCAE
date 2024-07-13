@@ -335,7 +335,7 @@ def grafica_grafo(nombre, coef, libro,lista_agentes):
         ax.text(0.85,1.10,f'Coef. Cord:{coef}')
         ax.text(0.85,0.95,f'Tick:{t}')
         ax.text(0.85,0.9,f'Contaminacion:{contaminacion[t]}')
-        ax.text(0.85,0.85,f'Derechos generadores: {derechos_adq_gen[t]}')
+        ax.text(0.85,0.85,f'Derechos Generadores: {derechos_adq_gen[t]}')
         ax.text(0.85,0.8,f'Derechos Afectados: {derechos_adq_afc[t]}')
 
     fig, ax = plt.subplots(figsize=(10,10))
