@@ -1,7 +1,4 @@
 pandas
 numpy
 matplotlib
-copy
-sys
-matplotlib
-heapq
+
